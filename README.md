@@ -18,7 +18,9 @@ Toutes ces certifications proviennent de **Coursera, SoloLearn et Tosa**.
 
 * **Autres certifications Langage C , java et PHP** (SoloLearn, Tosa…) : disponibles [ici](https://github.com/SafiDial/Certifications-coursera-Tosa-Sololern/tree/main/CERTIFICATIONS)
 
+Merci !
 ---
+
 
 
 
